@@ -6,6 +6,7 @@
  
 int main() {
    double length, width, area; // Declare 3 floating-point variables
+   printf ("Edited");
  
    printf("This program will compute the area of your rectangle"); //program message
    printf("\n"); //new line space
